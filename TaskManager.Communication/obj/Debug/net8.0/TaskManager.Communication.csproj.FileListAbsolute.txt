@@ -1,0 +1,11 @@
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.deps.json
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\bin\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfoInputs.cache
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.AssemblyInfo.cs
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.dll
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\refint\TaskManager.Communication.dll
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\TaskManager.Communication.pdb
+C:\Users\arthu\Documents\arthuPASTA\codes\rocketseat\ignite\c#\4 - Organização de projetos e bibliotecas\TaskManager\TaskManager.Communication\obj\Debug\net8.0\ref\TaskManager.Communication.dll
